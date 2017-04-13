@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="externalLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/eBaySDKJava981/lib/externalLib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/eBaySDKJava981/lib/externalLib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/eBaySDKJava981/lib/externalLib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/eBaySDKJava981/lib/externalLib" recursive="false" type="SOURCES" />
+  </library>
+</component>
